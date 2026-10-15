@@ -1,0 +1,6 @@
+segment_id,segment_name,segment_description,proposed_member_benefit,customers,share_of_segment
+S1,The Regulars,Higher booking activity / more recent engagement,Availability-based partner stay enhancement,2036,0.9975502204801567
+S1,The Regulars,Higher booking activity / more recent engagement,Member trip tracker: saved options and useful alerts,5,0.002449779519843214
+S2,The Reconnectors,Higher booking activity / less recent engagement,Capped next-booking partner credit,2239,1.0
+S3,The Explorers,Lower booking activity / more recent engagement,Member trip tracker: saved options and useful alerts,666,1.0
+S4,The Occasional Visitors,Lower booking activity / less recent engagement,Preference-led member welcome: choose an approved benefit,836,1.0

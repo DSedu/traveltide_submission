@@ -1,0 +1,5 @@
+segment_id,segment_name,segment_description,customers,median_engagement_recency_days,median_recent_noncanceled_trips,known_recent_booking_value_customers,median_known_recent_booking_value
+S1,The Regulars,Higher booking activity / more recent engagement,2041,17.0,3.0,1854,3442.25
+S2,The Reconnectors,Higher booking activity / less recent engagement,2239,52.0,3.0,2063,2927.53
+S3,The Explorers,Lower booking activity / more recent engagement,666,20.0,1.0,653,553.37
+S4,The Occasional Visitors,Lower booking activity / less recent engagement,836,61.0,1.0,824,404.13
